@@ -1,0 +1,6 @@
+{
+  "token": "你的toke",
+  "receiver_id": "企业id",
+  "encoding_aeskey": "你的encodingAeskey",
+  "port": 80
+}
